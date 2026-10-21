@@ -4,6 +4,15 @@ import "@fontsource-variable/dm-sans";
 import "@fontsource-variable/space-grotesk";
 import "./globals.css";
 export const metadata: Metadata = {
+  metadataBase: new URL("https://launchforge-rouge.vercel.app"),
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    siteName: "LaunchForge",
+    url: "https://launchforge-rouge.vercel.app",
+    title: "LaunchForge | Business Launch Plans, Branding & Websites",
+    description: "LaunchForge helps turn business ideas into brands, professional websites, and practical launch plans. Packages start at $99.",
+  },
   title: {
     default: "LaunchForge — From what if to what’s next.",
     template: "%s | LaunchForge",
