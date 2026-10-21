@@ -8,14 +8,14 @@ export const metadata: Metadata = {
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
-    siteName: "LaunchForge",
+    siteName: "Kivorly Studio",
     url: "https://launchforge-rouge.vercel.app",
-    title: "LaunchForge | Business Launch Plans, Branding & Websites",
-    description: "LaunchForge helps turn business ideas into brands, professional websites, and practical launch plans. Packages start at $99.",
+    title: "Kivorly Studio | Business Launch Plans, Branding & Websites",
+    description: "Kivorly Studio helps turn business ideas into brands, professional websites, and practical launch plans. Packages start at $99.",
   },
   title: {
-    default: "LaunchForge — From what if to what’s next.",
-    template: "%s | LaunchForge",
+    default: "Kivorly Studio — From what if to what’s next.",
+    template: "%s | Kivorly Studio",
   },
   description:
     "Turn your business idea into a launch-ready brand. Strategy, branding, websites, and launch support. Clear packages starting at $99.",
