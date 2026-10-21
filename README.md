@@ -1,4 +1,4 @@
-# LaunchForge
+# Kivorly Studio
 
 A responsive black-and-blue business launch website built with Next.js App Router, React, and TypeScript. Includes homepage, services, $99/$299/$599 one-time packages, contact form, and a private customer inquiry dashboard. No paid API, AI service, email subscription, or checkout service is required.
 
