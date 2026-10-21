@@ -8,7 +8,7 @@ export default function Privacy() {
       <p className="legal-date">Last updated October 21, 2026</p>
       <h2>What we collect</h2>
       <p>
-        When you submit an inquiry, LaunchForge collects your name, email,
+        When you submit an inquiry, Kivorly Studio collects your name, email,
         optional business name, selected service, and project message. Please do
         not include passwords, payment details, or sensitive personal
         information.
