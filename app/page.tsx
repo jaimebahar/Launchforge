@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { NewsletterForm } from "@/components/newsletter-form";
 import {
   ArrowUpRight,
   ArrowRight,
@@ -161,6 +162,7 @@ export default function Home() {
           </Link>
         </p>
       </section>
+      <NewsletterForm />
       <CTA />
     </>
   );

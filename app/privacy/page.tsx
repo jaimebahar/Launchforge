@@ -20,6 +20,16 @@ export default function Privacy() {
         subscribe you to marketing emails. We do not sell your personal
         information.
       </p>
+      <h2>Email updates and consent</h2>
+      <p>
+        Our optional LaunchForge Letter signup collects your email address and
+        affirmative consent to receive marketing updates. Newsletter signups
+        are kept separately identifiable from business inquiries. We use your
+        address only for LaunchForge updates and tips when you choose to subscribe.
+        You can request to unsubscribe or delete your information at any time by
+        emailing launchforge123@gmail.com. We honor opt-out requests before
+        sending further marketing messages.
+      </p>
       <h2>Storage and service providers</h2>
       <p>
         The production website is designed to be hosted by Vercel, with inquiry
