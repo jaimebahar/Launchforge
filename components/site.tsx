@@ -5,11 +5,11 @@ import { useState } from "react";
 import { ArrowUpRight, Menu, X, Zap } from "lucide-react";
 export function Logo() {
   return (
-    <Link href="/" className="logo" aria-label="LaunchForge home">
+    <Link href="/" className="logo" aria-label="Kivorly Studio home">
       <span className="logo-icon">
         <Zap size={21} fill="currentColor" />
       </span>
-      Launch<span className="muted-logo">Forge</span>
+      Kivorly<span className="muted-logo"> Studio</span>
       <span className="logo-dot">.</span>
     </Link>
   );
@@ -81,7 +81,7 @@ export function Footer() {
         </div>
         <div className="footer-bottom">
           <span>
-            © {new Date().getFullYear()} LaunchForge. All rights reserved.
+            © {new Date().getFullYear()} Kivorly Studio. All rights reserved.
           </span>
           <span>
             Built for the next big thing. <span className="blue">↗</span>
