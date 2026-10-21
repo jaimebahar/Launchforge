@@ -199,7 +199,7 @@ export function LaunchGraphic() {
       <div className="graphic-label">
         <span className="live-dot" /> YOUR AMBITION. OUR BLUEPRINT.
       </div>
-      <span className="coordinate">LF — 001 / BUILT TO BEGIN</span>
+      <span className="coordinate">KS — 001 / BUILT TO BEGIN</span>
       <div className="sparkle-mark">
         <Sparkles size={20} />
       </div>
